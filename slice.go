@@ -1,4 +1,4 @@
-package memo28Slice
+package memo_slice
 
 import (
 	"reflect"
